@@ -9,9 +9,9 @@
 
 ### [곽은진](https://github.com/eunjin413/Gwangjin_Gu/tree/main/KWAK)
 
-### 김서린
+### [김서린](https://github.com/eunjin413/Gwangjin_Gu/tree/main/KIM)
 
-### 이서현
+### [이서현](https://github.com/eunjin413/Gwangjin_Gu/tree/main/LEE)
 
 ### 참고한 코드
 
