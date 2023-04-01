@@ -7,7 +7,7 @@
 3. 각 후보의 반경 안에 대중교통 분포 파악 후 선정
 4. 변수 설정(경사도, 사고다발구역, 횡단보도 많은 곳)
 
-### 곽은진
+### [곽은진](https://github.com/eunjin413/Gwangjin_Gu/tree/main/KWAK)
 
 ### 김서린
 
